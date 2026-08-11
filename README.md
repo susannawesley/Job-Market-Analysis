@@ -140,27 +140,6 @@ categories.
 -   The average minimum salary was approximately **\$75K**, while the
     average maximum salary was approximately **\$128K**.
 
-## 📁 Suggested Project Structure
-
-``` text
-Job-Market-Analysis/
-│
-├── README.md
-├── data/
-│   └── Job_Market_Final_Cleaned.csv
-├── sql/
-│   └── sql_analysis_task2-11.sql
-├── powerbi/
-│   └── Job_Market_Analysis.pbix
-├── report/
-│   └── Job_Market_Analysis_Report.pdf
-└── presentation/
-    └── Job_Market_Analysis_Presentation.pptx
-```
-
-Adjust the file names and folders according to the files you actually
-upload to GitHub.
-
 ## 🔄 Project Workflow
 
 ``` text
